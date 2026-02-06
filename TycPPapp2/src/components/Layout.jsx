@@ -1,6 +1,6 @@
 import { Form, Link, useLocation } from 'react-router-dom'
 import '../css/EstilosGenerales.css'
-import logo from '../assets/logo888Buyer.jpeg' 
+import logo from '../assets/Logo888Buyer.jpeg' 
 
 const Layout = ({ children }) => {
   const location = useLocation()
